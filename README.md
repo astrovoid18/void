@@ -13,7 +13,7 @@ We’re excited to share that our team is participating in our very first 36-hou
 * Member 2
 * Member 3
 * Member 4
-* Member 5
+* Pranay Borgaonkar(Front-End Developer)
 * Member 6
 
 yep and thats all
