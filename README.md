@@ -11,7 +11,7 @@ We’re excited to share that our team is participating in our very first 36-hou
 
 * Aarav Singh Bisht ( Ai dev for the project )
 * Member 2
-* Member 3
+* Devansh Gupta (Full stack developer)
 * Member 4
 * Pranay Borgaonkar(Front-End Developer)
 * Jaya Yadav
