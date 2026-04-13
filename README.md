@@ -9,10 +9,11 @@ We’re excited to share that our team is participating in our very first 36-hou
 
 **Team Members:**
 
-* Member 1
+* Aarav Singh Bisht ( Ai dev for the project )
 * Member 2
 * Member 3
 * Member 4
 * Member 5
 * Member 6
 
+yep and thats all
