@@ -13,6 +13,8 @@ We’re excited to share that our team is participating in our very first 36-hou
 * Member 2
 * Member 3
 * Akshada Phadnis
+* Devansh Gupta (Full stack developer)
+* Member 4
 * Pranay Borgaonkar(Front-End Developer)
 * Jaya Yadav
 
